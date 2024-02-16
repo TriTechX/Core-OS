@@ -14,17 +14,18 @@ You may have to install Core OS' dependencies.
 Type the following to install Core's dependencies.
 
 ```bash
-sudo apt update&&sudo apt install python3-pip
-pip install shutil
-pip install psutil
-pip install pathlib
-pip install datetime
-pip install colorama
-pip install webbrowser
-pip install requests
-pip install contextlib
-pip install io
+$ sudo apt update&&sudo apt install python3-pip
+$ pip install shutil
+$ pip install psutil
+$ pip install pathlib
+$ pip install datetime
+$ pip install colorama
+$ pip install webbrowser
+$ pip install requests
+$ pip install contextlib
+$ pip install io
 ```
+Type "y" for any installation queries.
 
 Now, find the ```.zip``` file and extract its contents.
 Type ```python3 <directoryofmain.py>/main.py``` to run Core OS.

@@ -13,7 +13,7 @@ You may have to install Core OS' dependencies.
 ### For Linux:
 Type the following to install Core's dependencies.
 
-```sh
+```console
 sudo apt update&&sudo apt install python3-pip
 pip install shutil
 pip install psutil

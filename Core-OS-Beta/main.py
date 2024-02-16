@@ -1,4 +1,5 @@
 ####################
+#BUILT FOR LINUX#
 import time
 import socket
 import random

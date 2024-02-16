@@ -1,0 +1,12 @@
+Hello Core user,
+
+We have recently decided to continue the development of Core OS, so that we can try our hardest for it to reach its full potential.
+There is no date for the time at which we will stop development on the project, and no release date for the final update. For now, we have simply added BlackJack Redux and SAIntence Deluxe to the 'Games and Apps' folder. Why not check that out in the meantime, and even earn some money from BlackJack? (The money will be useful later - so keep saving up!)
+
+And don't worry, if you run out of money, your balance is reset to 20. Originally it was chosen to be 100, but we wanted to add a bit of a challenge.
+
+We thank you for your patience whilst we slowly improve Core. 
+
+If any bugs are found in the 'BlackJack Redux' project, please tell us in the comments below (Replit only)
+
+10/10/2022, 10:47 GMT //Xytro

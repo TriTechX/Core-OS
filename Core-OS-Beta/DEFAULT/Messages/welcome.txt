@@ -1,0 +1,10 @@
+Hello Core user! The team at TriTech is proud to announce that we have begun working on another OS!
+
+This shell aims to be understandable and simple to use, 
+so that just about anyone can pick it up and learn it in a matter of seconds.
+
+The commands will all be single word, and all be prompt-based after the return key is pressed.
+It would be much appreciated if you reported any bugs in the comment section below.
+Hope you enjoy using Core!
+
+31/07/2022, 11:28 BST //Xytro

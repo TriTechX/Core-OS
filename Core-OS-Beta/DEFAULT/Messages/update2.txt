@@ -1,0 +1,10 @@
+Hello Core user,
+
+Recently, development on Core OS has once again started up, allowing for us to add small patches here and there to improve your experience.
+Small QoL fixes have also been introduced, such as system files and folders now appearing in light cyan instead of being in a jumble with the rest of your personal files.
+Tic Tac Toe has additionally been added to the Games folder for an extra little bit of fun every now and then. 
+All people in BST time have also had a small fix added, moving forward the time by 1 hour during BST periods. That took me asurprisingly longer amount of time than I thought it would.
+We thank you for being so patient whilst we gradually evolve Core.
+Please, as always, make sure to report any bugs you have found in the comments, with a screenshot of the error and how it was caused, if you can :)
+
+20/06/2023, 9:55 BST //Xytro

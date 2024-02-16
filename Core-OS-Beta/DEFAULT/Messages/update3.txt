@@ -1,0 +1,9 @@
+Hello Core user,
+
+Lately, the development of Core OS has been coming to an end, with all of the features we could possibly think of and implement in Replit having been fleshed out as much as possible. With the limitations of Replit on socket programming, webscraping, connecting to other platforms, and larger files, we feel that it will be difficult to push Core as fast as possible. 
+
+Hopes were that a Chat feature could've been added, allowing Core users to connect with one another, add a shop to purchase exclusive games and apps, a ranking system with experience and a public profile, where you could display badges earned and purchased, a social media system, and many many more connectivity features. Sadly, Replit cannot handle half of these features, and a Windows port, although considered, was quickly decided against after too many modules were found either not to work, or be difficult to install. We thank every one of you for using this system. The source code for this is right here on Replit.
+And as always, if you find any bugs or suggestions, please bring them up in the comments. :)
+
+
+02/11/2023, 12:43 GMT //Xytro

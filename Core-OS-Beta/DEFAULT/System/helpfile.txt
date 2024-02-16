@@ -1,0 +1,115 @@
+------
+Command 1: 'help' - This prints a list of commands with their descriptions.
+------
+Command 2: 'dirbk' - This command goes back a folder. For example, if you are in '/runner/Core-OS', then you will go back to '/runner'
+------
+Command 3: 'messages' - Prints a list of the developer messages that you have recieved, and allows you to read them.
+------
+Command 4: 'chdir' - This command goes into a folder.
+------
+Command 5: 'ls' - Lists all folders and files in your folder.
+------
+Command 6: 'clear' OR 'cls' - Clears the screen, and reprints the welcome.
+------
+Command 7: 'date' - Prints the date and time.
+------
+Command 8: 'version' - Prints the version of Core OS.
+------
+Command 9: 'location' - Prints the current specific latitude/longitude of the session.
+------
+Command 10: 'write' OR 'note' - Creates a note. (File extensions are not required.
+------
+Command 11: 'create' OR 'document' - Creates a file. (File extensions are required.
+------
+Command 12: 'read' - Reads a file.
+------
+Command 13: 'execute' OR 'run' - Runs a file if readable by the python compiler.
+------
+Command 14: 'python' OR 'py' OR 'python3' - Opens the Python shell for Core OS.
+------
+Command 15: 'home' OR 'homedir' OR 'hd' - Navigates to the home directory; Goes to the folder where Core is running.
+------
+Command 16: 'tree' OR 'dtree' OR 'dirtree' - Prints a tree of files on the system.
+------
+Command 17: 'whoami' OR 'username' - Prints the username.
+------
+Command 18: 'design' - Changes the terminal design. - Currently: '~ €'
+------
+Command 19: 'properties' - Views the properties of a file/folder.
+------
+Command 20: 'rename' - Renames a file/folder.
+------
+Command 21: 'rnr' or 'runner' or 'filewd' - Gets the working directory of Core OS.
+------
+Command 22: 'open' or 'play' - Opens a game or app.
+------
+Command 23: 'delete' or 'remove' - Deletes/removes a file.
+------
+Command 24: 'view' - Opens a file in a seperate default application.
+------
+Command 25: 'chport' - Changes the source, destination and server ports.
+------
+Command 26: 'port' - Views the source, destination and server ports.
+------
+Command 27: 'ip' or 'ipconfig' - Views the device's IPv4 address.
+------
+Command 28: 'find' or 'findstr' - Find a string in a text file.
+------
+Command 29: 'battery' or 'power' - View the battery level of the device.
+------
+Command 30: 'rmstr' - Removes the line from a file containing a specified string.
+------
+Command 31: 'rmline' - Removes a line from a file.
+------
+Command 32: 'command' - Retrieves help for a certain command.
+------
+Command 33: 'sort' - BE CAREFUL: sorts all items in a folder in alphabetical order.
+------
+Command 34: 'duplicate' OR 'dup' - Duplicates a file in a folder.
+------
+Command 35: 'rng' - Random number generation.
+------
+Command 36: 'system' - Runs system command prompt.
+------
+Command 37: 'diskchk' - Prints the disk usage.
+------
+Command 38: 'health' OR 'performance' - Prints the memory and CPU usage until 'ctrl + c' is pressed.
+------
+Command 39: 'gpu' - Prints the specifications of the GPU.
+------
+Command 40: 'wiki' OR 'wikipedia' - Retrieves a summary off of wikipedia for a topic.
+------
+Command 41: 'google' OR 'search' - Gets a collection of the top search results off of google.
+------
+Command 42: 'howdoi' OR 'how' - Assists with coding in Python, and provides snippets of code.
+------
+Command 43: 'dis' OR 'disassemble' - disassembles code into mneumonic-based bytecode.
+------
+Command 44: 'scrape', 'retrieve', or 'ws' - Scrapes the HTML of any web page.
+------
+Command 45: 'pt' - Literally prints off a document through a printer.
+------
+Command 46: 'tutorial' - (Recommended) Teaches you how to use the Core Shell in a more in-depth way :)
+------
+Command 47: 'clrcache' - This clears the cache.
+------
+Command 48: 'text' - This prints text formatted to your desires.
+------
+Command 49: 'move' or 'mv' - Allows you to move a file from one place to another.
+------
+Command 50: 'tasks' or 'pids' or 'running' - Shows you a list of running tasks and their IDs.
+------
+Command 51: 'cmdline' or 'tskline' - Shows you the command line of a task.
+------
+Command 52: 'wget' or 'download' or 'curl' - Downloads a file directly from a source link. This will be the site's HTML source if no redirect is provided.
+------
+Command 53: 'makerm' - Creates a reminder.
+------
+Command 54: 'viewrm' or 'remind' - Views reminders.
+------
+Command 55: 'markrm' - Mark/tick off reminders.
+------
+Command 56: 'news' - Enable/disable the news on the terminal startup.
+------
+Command 57: 'imgrun' or 'runimg' - Run an AppImage file.
+------

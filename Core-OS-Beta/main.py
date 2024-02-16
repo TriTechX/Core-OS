@@ -86,7 +86,7 @@ for x in range(0, random.randint(1, 5)):
     os.system("clear")
 time.sleep(random.randint(1, 15)/10)
 
-#user code#
+#user code - a beta feature. Use legacy edition for a quick sign-in.#
 valid = False
 validionormous = False
 while not validionormous:
@@ -202,6 +202,7 @@ def returnDir():
     return(home_directory)
 old = os.getcwd()
 dir()
+#Defaults to GB news.
 url = 'https://newsapi.org/v2/top-headlines?country=gb&apiKey=d8b8ad3ec036441faedc41caeec7c1da'
 
 def gettasks():

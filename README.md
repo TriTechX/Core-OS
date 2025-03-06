@@ -1,6 +1,8 @@
 # Core-OS
 Core OS is a simple CLI Operating System written entirely in Python.
 
+CORE OS IS DEPRECATED AND BAD, DO NOT USE!!!!!!
+
 ## Please note!
 This current version (v1.2.3 Beta) is made entirely for Replit. It may be unstable running locally on your computer. If you're running Core OS on a computer, using Linux terminal to run it is highly recommended, as this is the software used similarly by Replit.
 Various functions are either redundant or serve no purpose on Windows.
